@@ -1,0 +1,9 @@
+.carousel{
+	display: flex;
+}
+.carousel-images{
+	display: flex;
+}
+.carousel-images:hover{
+	transform: scale(1.05);
+}
